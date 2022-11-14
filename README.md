@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jiaxingAndy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in 服务器硬件
+- 🌱 I’m currently learning python
 - 📫 How to reach me ...  wejk.cn
 
 <!---
